@@ -152,7 +152,7 @@ export const DreamLibrary: React.FC<DreamLibraryProps> = ({ cakes, onNext }) => 
           animate={{ opacity: 0.6 }}
           className="font-sans text-xs tracking-[0.2em] text-pink-300 uppercase mb-2"
         >
-          Scene 4 — The Birthday Cakes
+          The Birthday Cakes
         </motion.p>
         <motion.h2
           initial={{ opacity: 0, y: 10 }}
