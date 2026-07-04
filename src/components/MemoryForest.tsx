@@ -213,7 +213,7 @@ export const MemoryForest: React.FC<MemoryForestProps> = ({ memories, letterText
             {/* Letter Footer */}
             <div className="mt-8 pt-5 border-t border-white/10 flex justify-between items-center select-none">
               <span className="text-[10px] font-mono text-orange-200/30">
-                Tulus dari hati Fadzlan ✨
+                loveuusomuchh
               </span>
               <motion.button
                 whileHover={{ scale: 1.05 }}
