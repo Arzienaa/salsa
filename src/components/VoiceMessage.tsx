@@ -9,11 +9,11 @@ interface VoiceMessageProps {
 
 const TRANSCRIPT_TIMINGS = [
   { time: 0, text: "Halo sayang" },
-  { time: 6, text: "Cantikku..." },
-  { time: 14, text: "Kesayanganku..." },
-  { time: 22, text: "My everything..." },
-  { time: 30, text: "Happy Sweet Seventeen!..." },
-  { time: 38, text: "Makin hari makin sayang" }
+  { time: 6, text: "🩷🩷🩷🩷" },
+  { time: 14, text: "💋💌💘" },
+  { time: 22, text: "🎂🍭🍨" },
+  { time: 30, text: "Happy Sweet Seventeen!" },
+  { time: 38, text: "LOVEEUUUU" }
 ];
 
 const VOICE_AUDIO_URL = "/audio/voice-for-salsa.mp3";
