@@ -346,7 +346,7 @@ export function VoiceMessage({ onNext }: VoiceMessageProps) {
       {/* Helpful developer instructions note requested */}
       <div className="mt-8 text-center max-w-sm px-4">
         <p className="text-[10px] font-mono text-orange-200/30 leading-relaxed">
-          Replace <code className="text-orange-300/50">/public/audio/voice-for-salsa.mp3</code> with your own recording to make this player work automatically.
+          Hi cantik <code className="text-orange-300/50">dengerin voice nya yaaa!! okay okay?.
         </p>
       </div>
 
