@@ -8,12 +8,12 @@ interface VoiceMessageProps {
 }
 
 const TRANSCRIPT_TIMINGS = [
-  { time: 0, text: "❤️❤️❤️❤️" },
-  { time: 6, text: "Setiap detak dan nadanya dibuat tulus untukmu, sayang..." },
-  { time: 14, text: "Terima kasih sudah bertahan dengan aku selama ini..." },
-  { time: 22, text: "Maaf yaa kalau aku kadang bikin kamu kesal atau kecewa..." },
-  { time: 30, text: "Tapi rasa sayangku ke kamu itu sangat tulus, selalu..." },
-  { time: 38, text: "Selamat ulang tahun yang ke-17, cantiikkuu... 💐✨" }
+  { time: 0, text: "Halo sayang" },
+  { time: 6, text: "Cantikku..." },
+  { time: 14, text: "Kesayanganku..." },
+  { time: 22, text: "My everything..." },
+  { time: 30, text: "Happy Sweet Seventeen!..." },
+  { time: 38, text: "Makin hari makin sayang" }
 ];
 
 const VOICE_AUDIO_URL = "/audio/voice-for-salsa.mp3";
