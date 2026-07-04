@@ -73,7 +73,7 @@ export const SkyObservatory: React.FC<SkyObservatoryProps> = ({ stars, onNext })
           animate={{ opacity: 0.6 }}
           className="font-sans text-xs tracking-[0.2em] text-amber-200 uppercase mb-2"
         >
-          Scene 2 — The Sky Observatory
+          The Sky Observatory
         </motion.p>
         <motion.h2
           initial={{ opacity: 0, y: 10 }}
