@@ -1,0 +1,4 @@
+# This file ensures that the public/audio/ folder exists in the project repository structure.
+# You can place your audio files in this directory:
+# 1. 'voice-for-salsa.mp3' - to automatically activate the voice message player.
+# 2. 'background.mp3' - to play as the background music across the entire website.

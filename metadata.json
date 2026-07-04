@@ -1,0 +1,6 @@
+{
+  "name": "Dreamscape Birthday",
+  "description": "An unforgettable, highly interactive, magical dreamscape experience for a very special birthday, featuring music, memories, stargazing, and an unfolding letter.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
